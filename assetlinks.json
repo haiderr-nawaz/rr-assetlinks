@@ -1,0 +1,14 @@
+[
+    {
+        "relation":[
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target":{
+            "namespace":"android_app",
+            "package_name":"com.example.rajaa_rani_new",
+            "sha256_cart_fingerprints":[
+                "68:C0:F2:8B:BF:24:10:C4:5F:5B:22:DF:33:3A:78:75:4D:E5:61:90:CE:5D:3A:53:A0:70:52:46:2E:53:FF:1B"
+            ]
+        }
+    }
+]
